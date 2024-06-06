@@ -1,8 +1,8 @@
 ## Hi, I'm Isabella! 👋</h3>
 
-👩🏻‍💻 Studying Computer Science at Clarkson University of Potsdam, New York<br/>
-🖥️ I love learning new things but am especially passionate about experimenting with creating websites<br/>
-💭 Currently learning how to use API's
+<h4>👩🏻‍💻 Studying Computer Science at Clarkson University of Potsdam, New York</h3>
+<h4>🖥️ I love learning new things but am especially passionate about experimenting with creating websites</h3>
+<h4>💭 Currently learning how to use API's</h3>
 
 <!--
 **isa-guisti/isa-guisti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
